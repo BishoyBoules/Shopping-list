@@ -24,4 +24,6 @@ git clone https://github.com/BishoyBoules/Shopping-list.git
 
 
 2- Install the dependicies
+
+```bash
     npm init
