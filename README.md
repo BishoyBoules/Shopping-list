@@ -21,3 +21,7 @@ Follow these instructions to run the application locally.
 
 ```bash
 git clone https://github.com/BishoyBoules/Shopping-list.git
+
+
+2- Install the dependicies
+    npm init
