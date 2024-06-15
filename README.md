@@ -23,4 +23,4 @@ Follow these instructions to run the application locally.
 
 2. Install the dependicies:
 
-    npm init
+    npm install
